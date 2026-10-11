@@ -1,0 +1,4 @@
+<resources><style name="Theme.SonClinic" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+<item name="colorPrimary">#176B87</item><item name="colorPrimaryVariant">#10243A</item><item name="colorSecondary">#2AA198</item>
+<item name="android:fontFamily">sans</item><item name="android:statusBarColor">#10243A</item><item name="android:navigationBarColor">#10243A</item>
+</style></resources>
